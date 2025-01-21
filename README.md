@@ -11,4 +11,4 @@ Términos:
 - Red : SISTEMA de comunicación entre 2 o más dispositivos
 - Protocolo : Es un Conjunto de reglas y estándares que determinan cómo los dispositivos en una
   red entre sí.
-- 
+- Video resumen redes y Internet básico : https://www.youtube.com/watch?v=uunnO9yZCYk
